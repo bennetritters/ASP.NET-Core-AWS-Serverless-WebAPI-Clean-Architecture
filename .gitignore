@@ -1,0 +1,13 @@
+﻿.idea
+EasyDropper.sln.DotSettings.user
+CA-AWSSL/test/Api.Tests/obj
+CA-AWSSL/src/Infrastructure/obj
+CA-AWSSL/src/Infrastructure/bin
+CA-AWSSL/src/Domain/obj
+CA-AWSSL/src/Domain/bin
+CA-AWSSL/src/Application/obj
+CA-AWSSL/src/Application/bin
+CA-AWSSL/src/Api/obj
+CA-AWSSL/src/Api/bin
+CA-AWSSL/test/Api.Tests/bin
+CA-AWSSL.sln.DotSettings.user
